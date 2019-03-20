@@ -45,3 +45,7 @@
 
 ### [Axelspace Corp.](https://www.axelspace.com/)
 - 人工衛星からのデータ（テレメトリ）の解析に使っています。
+
+### [株式会社ユーザベース](https://www.uzabase.com/)
+- 企業・業界情報プラットフォーム[SPEEDA](https://jp.ub-speeda.com/)の企業名寄せ処理で使っています。
+- ユーザアクセスログの同期バッチで使っています。
